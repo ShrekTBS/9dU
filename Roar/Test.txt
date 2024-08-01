@@ -1,0 +1,10 @@
+Auto Skill
+Tự động rao
+Tự chọn quái
+Có thể che màn hình
+Fix lỗi không đánh quái nếu click ra ngoài
+Text road 6 (Để mặc định sẽ không nhắn)
+Text road 7
+Text road 8
+Text road 9
+Text road 10
