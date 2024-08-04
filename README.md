@@ -1,6 +1,7 @@
 # 9dU
 9DU Dzo tool - Auto free 9DU - Dzogame
 Update 13:00 04-08-2024:
+- Điều khiển được 2 cửa sổ game.
 - Mở tính năng tự buff các skill buff trong quá trình đánh quái
 - Mở tính năng bỏ qua quái theo thời gian đã đặt trước đó
 - Mở tính năng tự bật chiến đấu.
