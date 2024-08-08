@@ -1,7 +1,16 @@
 # 9dU
+------------------------------------------------------------------------------------------------------------
+Đây là tool hoàn toàn miễn phí, chia sẻ duy nhất tại: https://github.com/shrektbs/9du
+Zalo: Shrek - 0862 1357 66                                                                           
+Fb: Trương Infinity
+------------------------------------------------------------------------------------------------------------
+Link Youtube có sub: https://youtu.be/P18u-ID6XMU
+Link Youtube: https://youtu.be/8z0uB26wIF0
+Link tải: https://github.com/shrektbs/9du
 9DU Dzo tool - Auto free 9DU - Dzogame
 Các bạn đã tải file trước đó chỉ cần tải file exe về lưu đè lên file cũ là xài được, không cần tải hết cả thư mục nhé
 ----------------------------------------------------------------------------------------------------------------------------
+Update 08-08-2024: Cho biết chính xác cửa sổ game nào được chọn khi click vào chọn Client tại Tab Hướng dẫn
 Update 06-08-2024: Fix lỗi bấm phím 0 liên tục khi dùng bằng chiêu thức kỹ
 ----------------------------------------------------------------------------------------------------------------------------
 Update 13:00 04-08-2024:
