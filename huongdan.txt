@@ -1,6 +1,10 @@
+------------------------------------------------------------------------------------------------------------
+Link Youtube có sub: https://youtu.be/P18u-ID6XMU
+Link Youtube: https://youtu.be/8z0uB26wIF0
+Link tải: https://github.com/shrektbs/9du
+-------------------------------------------------------------------------------------------------------------
 - Nếu không hiện tiếng Việt thì chọn Font tahoma nha.
-- Trước tiền cần đưa thư mục auto vào thư mục Exclusion
-để không bị nhận nhầm là Virus ( làm thế nào thì Google).
+- Trước tiền cần đưa thư mục auto vào thư mục Exclusion để không bị nhận nhầm là Virus ( làm thế nào thì Google).
 - Có thể đánh quái kể cả khi màn hình bị che (Không thu nhỏ).
 - Fix lỗi chơi dạng cửa sổ click bên ngoài không đánh quái (Sau 5 giây).
 - Để sử dụng các Skill cần set thời gian delay lớn hơn 0, tốt nhất là 1 hoặc
@@ -10,32 +14,19 @@ theo thời gian delay(Thời gian hồi) cuả Skill.
 - Tự chat kênh thế giới, đoàn, hội, khu vực....
 - Đây là bản miễn phí mong AE chia sẻ.
 Hướng dẫn cấu hình và sử dụng:
-Link Youtube có sub: https://youtu.be/P18u-ID6XMU
-Link Youtube: https://youtu.be/8z0uB26wIF0
-Link tải: https://github.com/shrektbs/9du
-1. Chọn vô quái sau đó ấn phím PrtSc
-(Là phím Print Screen) để chụp màn 
-hình.
+1. Chọn vô quái sau đó ấn phím PrtSc (Là phím Print Screen) để chụp màn hình.
 2. Sau đó ấn Star menu để mở Paint.
 3. Dán hình vừa chụp vào Paint (Ctrl+V)
-4. Chỉnh to hình lên cho dễ thao tác
-cần-->chính là nhìn thấy tên quái.
+4. Chỉnh to hình lên cho dễ thao tác cần-->chính là nhìn thấy tên quái.
 5. Cắt một mảnh nhỏ chổ tên quái
 6. Copy hình vừa cắt (Ctrl+C)
-7. Trong Paint nhấn Ctrl+N (Mở mới,
-khong cần lưu file này)
-8. Kéo nhỏ khung màu trắng hết cỡ 
-có thể để chính xác hơn.
-Dán vào cửa sổ Paint mới mở
-9. Lưu hình vào thư muc img trong
-thư mục auto.
-10. Tại mục Save as type chọn
-24-bit Bitmap
-11. Lưu với tên Mob_(Từ 0 đến bất kỳ) 
-trong ví dụ này sẽ là Mob_1.
+7. Trong Paint nhấn Ctrl+N (Mở mới, không cần lưu file này)
+8. Kéo nhỏ khung màu trắng hết cỡ có thể để chính xác hơn.
+9. Dán vào cửa sổ Paint mới mở
+10. Lưu hình vào thư muc img trong thư mục auto.
+11. Tại mục Save as type chọn 24-bit Bitmap
+12. Lưu với tên Mob_(Từ 0 đến bất kỳ) trong ví dụ này sẽ là Mob_1.
 Vậy là xong cách để auto xác định quái mà đánh
-Làm tương tự chụp hình Peace mode
- để tự cuyển chiến đấu.
-(File mẫu lưu trong thư mục img)
-Mở auto
-Chúc thành công
+Làm tương tự chụp hình Peace mode để tự cuyển chiến đấu.(File mẫu lưu trong thư mục img)
+Mở auto và chiến..........................
+================================Chúc thành công=========================================
