@@ -1,6 +1,6 @@
 # 9dU
 ------------------------------------------------------------------------------------------------------------
-- Đây là tool hoàn toàn miễn phí, chia sẻ duy nhất tại: https://github.com/shrektbs/9du.
+- Đây là tool hoàn toàn miễn phí dành cho 9DU Dzôgame, chia sẻ duy nhất tại: https://github.com/shrektbs/9du.
 - Zalo: Shrek - 0862 1357 66                                                                           
 - Fb: Trương Infinity
 ------------------------------------------------------------------------------------------------------------
