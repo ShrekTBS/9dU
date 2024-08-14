@@ -10,6 +10,7 @@
 - 9DU Dzo tool - Auto free 9DU - Dzogame.
 - Các bạn đã tải file trước đó chỉ cần tải file exe về lưu đè lên file cũ là xài được, không cần tải hết cả thư mục nhé
 ----------------------------------------------------------------------------------------------------------------------------
+- Update 14-08-2024: Fix tạm thời tự chọn quái, bắt buộc cửa sổ game Active.
 - Update 08-08-2024: Cho biết chính xác cửa sổ game nào được chọn khi click vào chọn Client thông qua hình hiển thị tại Tab Hướng dẫn.
 - Update 06-08-2024: Fix lỗi bấm phím 0 liên tục khi dùng bằng chiêu thức kỹ
 ----------------------------------------------------------------------------------------------------------------------------
