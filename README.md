@@ -3,6 +3,10 @@
 - Đây là tool hoàn toàn miễn phí dành cho 9DU Dzôgame, chia sẻ duy nhất tại: https://github.com/shrektbs/9du.
 - Zalo: Shrek - 0862 1357 66                                                                           
 - Fb: Trương Infinity
+- ----------------------------------------------------------------------------------------------------------
+- **Phiên bản update ngày 17-12-2024 hỗ trợ ae không quét được image có thể chọn Tìm quái theo màu và hỗ trợ bơm máu, 
+bỏ qua quái nếu sau thời gian đặt trước không mất máu (Trước đây là sau bao lâu đó sẽ tự bỏ qua mà ko cần biết 
+quái có mất máu ko)**
 ------------------------------------------------------------------------------------------------------------
 - Link Youtube có sub: https://youtu.be/P18u-ID6XMU
 - Link Youtube: https://youtu.be/8z0uB26wIF0
